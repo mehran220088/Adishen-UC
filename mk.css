@@ -1,0 +1,27 @@
+.container{
+				background: #18143c;
+				width:100%;
+				height:120%;
+				display: flex; 
+				justify-content: center;
+				box-sizing: border-box;
+				background-origin: border-box;
+				}
+.fj:hover{
+				color: #ff9d00;
+				font-size: 1.1pc;
+}
+#fj:hover{
+				color: #ff9d00;
+				font-size: 2.1pc;
+}
+#fo{
+				font-size: 1.4pc;
+}
+#fo:hover{
+				font-size: 1.5pc;
+}
+#fi:hover{
+				width: 15pc;
+				height: 12pc;
+}
